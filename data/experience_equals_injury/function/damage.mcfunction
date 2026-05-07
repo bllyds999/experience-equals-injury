@@ -1,3 +1,4 @@
+execute as @a if score @s exp_record matches 0 run attribute @s minecraft:attack_damage base set 0
 execute as @a if score @s exp_record matches 1 run attribute @s minecraft:attack_damage base set 1
 execute as @a if score @s exp_record matches 2 run attribute @s minecraft:attack_damage base set 2
 execute as @a if score @s exp_record matches 3 run attribute @s minecraft:attack_damage base set 3
@@ -996,4 +997,4 @@ execute as @a if score @s exp_record matches 995 run attribute @s minecraft:atta
 execute as @a if score @s exp_record matches 996 run attribute @s minecraft:attack_damage base set 996
 execute as @a if score @s exp_record matches 997 run attribute @s minecraft:attack_damage base set 997
 execute as @a if score @s exp_record matches 998 run attribute @s minecraft:attack_damage base set 998
-execute as @a if score @s exp_record matches 999 run attribute @s minecraft:attack_damage base set 999
+execute as @a if score @s exp_record matches 999.. run attribute @s minecraft:attack_damage base set 999

@@ -71,15 +71,15 @@ As you level up, you gain permanent status effects (all at amplifier level 9, i.
 ## Installation / 安装方法
 
 1. Download the datapack
-2. Place it in your world's `datapacks` folder: `.minecraft/saves/<your_world>/datapacks/`
-3. Run `/reload` in game, or re-enter the world
+2. Place it in your world's `datapacks` folder: `.minecraft/saves/<your_world>/datapacks/` .
+3. Run `/reload` in game, or re-enter the world.
 4. The datapack activates automatically
 
 ---
 
 1. 下载数据包
-2. 放入存档的 `datapacks` 文件夹：`.minecraft/saves/<你的存档>/datapacks/`
-3. 在游戏中执行 `/reload`，或重新进入存档
+2. 放入存档的 `datapacks` 文件夹：`.minecraft/saves/<你的存档>/datapacks/` 。
+3. 在游戏中执行 `/reload`，或重新进入存档。
 4. 数据包自动生效
 
 ---

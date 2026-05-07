@@ -29,11 +29,11 @@ Your base attack damage equals your experience level, up to **999**.
 
 | Experience Level | Attack Damage |
 |:---:|:---:|
-| 1 | 1 () |
-| 10 | 10 () |
-| 100 | 100 () |
-| 500 | 500 () |
-| 999 | 999 () |
+| 1 | 1 |
+| 10 | 10 |
+| 100 | 100 |
+| 500 | 500 |
+| 999 | 999 |
 
 ### Max Health / 最大生命值
 

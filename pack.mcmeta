@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "The more experience, the higher the damage, supporting up to 999 experience points.",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 101
+  }
+}

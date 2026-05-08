@@ -66,6 +66,12 @@ As you level up, you gain permanent status effects (all at amplifier level 9, i.
 | 63 | Resistance | 抗性提升 |
 | 72 | Night Vision | 夜视 |
 
+### Item to Experience / 物品转经验
+
+When you hold a piece of paper in your inventory, nearby dropped items (within 10 blocks) will be converted into experience orbs.
+
+当你的物品栏中有纸时，附近 10 格内的掉落物会被转化为经验球。
+
 ---
 
 ## Installation / 安装方法
@@ -94,7 +100,8 @@ data/
         ├── tick.mcfunction      # Main loop (runs every tick) / 主循环（每 tick 执行）
         ├── damage.mcfunction    # Set attack damage / 设置攻击伤害
         ├── health.mcfunction    # Set max health / 设置最大生命值
-        └── effect.mcfunction    # Grant status effects / 给予状态效果
+        ├── effect.mcfunction    # Grant status effects / 给予状态效果
+        └── item.mcfunction      # Convert items to experience orbs / 将物品转化为经验球
 data/
 └── minecraft/
     └── tags/
